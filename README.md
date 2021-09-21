@@ -12,7 +12,7 @@ Assets provided by [kenney.nl](https://kenney.nl/assets/simple-space)
 
 Explosion sprite sheets provided by [StumpyStrust](https://opengameart.org/content/explosion-sheet) and [Cuzco](https://opengameart.org/content/explosion)
 
-Additional art provided by [OpenGameArt](https://opengameart.org/content/space-background-3)
+Additional art provided by [OpenGameArt](https://opengameart.org/content/space-background)
 
 ## References
 None
