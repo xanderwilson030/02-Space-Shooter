@@ -8,7 +8,7 @@ var positions = [
 ]
 
 var Enemy = preload("res://Enemy/Enemy.tscn")
-var num_enemies = 1
+var num_enemies = 2
 var respawning = false
 
 func _ready():
@@ -23,7 +23,7 @@ func add_enemy():
 	var enemy = Enemy.instance()
 	enemy.position = positions[randi() % positions.size()] + Vector2(randf()*100, randf()*100).rotated(randf()*2*PI)
 	add_child(enemy)
-	num_enemies = 1 + floor(Global.score / 100)
+	num_enemies = 2 + floor(Global.score / 100)
 
 
 func _on_Respawn_timeout():
