@@ -3,7 +3,7 @@ Exercise for MSCH-C220, 21 September 2021
 
 A simple game exploring HUD elements and changing scenes.
 
-Extra mechanics include background OST, new background image, and new assets. All assets were created by those credited below.
+Extra mechanics include background OST, new background image, more enemies at once, and new assets. All assets were created by those credited below.
 
 ## Implementation
 Built using Godot 3.3.3
